@@ -31,11 +31,16 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About me"
+name = "Research"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "TBD!"
-url = "/about"
+name = "Experience"
+url = "/experience"
 weight = 3
+
+[[menu.main]]
+name = "CV - soon..."
+url = "/about"
+weight = 4
